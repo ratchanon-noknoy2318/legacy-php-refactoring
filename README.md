@@ -3,7 +3,7 @@
 - PHP
 
 
-## Debugging
+## Flowchart
 
 ```mermaid
 flowchart TD
