@@ -1,12 +1,12 @@
 ## Tech Stack
 
-- **Languages:** PHP
-- **Framework:** ITA (Integrity and Transparency Assessment)
+- PHP
 
-## Debugging Approach
+
+## Debugging
 
 ```mermaid
 flowchart TD
-    A["Vague Feedback"] --> B["Trace & Inspect"]
-    B --> C["Identify & Refactor"]
-    C --> D["50+ PHP Files Refactored & THB 9,000 Saved"]
+    A["Error 404"] --> B["Identify Cause"]
+    B --> C["Resolve"]
+    C --> D["MOPH assessment passed"]
